@@ -15,4 +15,7 @@ QUESTIONS YOU HAVE TO ANSWER AND VOCABULARY WE HAVE TO DEFINE
 > a blog is someone's personal dashboard, not personal as in the one they look at but rather the one containing all of their posts
 > you can safely sandbox a blog to the point of infinite customization through html, css, javascript, and even python if you're ambitious. so a user can really go ham on their blog
 
+#6. FIRST, HOW BLOGS WORK. THEN, FIGURE OUT HOW TO IMPLEMENT HOME INSTANCE. THEN, FIGURE OUT HOW TO IMPLEMENT ANOTHER INSTANCE TO CHANGE WHO YOU FOLLOW 
 
+# 7. NAMES?
+  > thinking of Diver, because the home instance and the dashboard that results from it could be the "stream" that everyone swims in 
